@@ -1,4 +1,4 @@
-# rain-simulator
+# rain-simulator-cpp
 
 Ermir Alliu
 Programming Languages and Techniques Coursework
