@@ -12,3 +12,8 @@ For temperatures <= -274, it's less than absolute zero. Nothing can happen, noth
 Wind preferrably should be ~<|1000|, otherwise it does not look well.
 
 If it snows, snow sticks and will be removed when it rains.
+
+Updates:
+No global variables.
+Separated logically into classes and files.
+Better readability.
