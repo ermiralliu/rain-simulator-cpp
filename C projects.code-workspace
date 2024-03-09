@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "D:/Ermir VS Code Projects/C projects"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "WebApplication1.sln",
+		"files.associations": {
+			"vector": "cpp",
+			"math.h": "c",
+			"random": "cpp",
+			"cstdint": "cpp",
+			"*.tcc": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
